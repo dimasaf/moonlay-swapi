@@ -1,6 +1,6 @@
 # Getting Started with the Project
 
-implement react, tailwing, react-redux, axios, react-hook-form, react-router, sweetalert2
+implement react, tailwind, react-redux, axios, react-hook-form, react-router, sweetalert2
 
 ## How To Run
 
@@ -28,7 +28,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### To Be soon Improved
+### To Be soon `Improved`
 
 - refactor components
 - smartphone size responsive
